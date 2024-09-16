@@ -70,3 +70,6 @@ let seatingChart = [
 // Modify "John" to be "John A." through the seatingChart array
 
 // Remove "Alyma" from the seatingChart array
+
+// Commit changes this section with an appropriate commit message
+// Push commits to submit
